@@ -44,4 +44,4 @@ Please refer to the attached source code for a more detailed explanation of how 
 NB: In my calculations, I have excluded the single click out entry at 23:59:59 because we don't have data for the full minute of 23:59.
 
 
-Direct link to the solution page on MindSumo: https://www.mindsumo.com/solutions/48468
+Direct link to my solution page on MindSumo: https://www.mindsumo.com/solutions/48468
