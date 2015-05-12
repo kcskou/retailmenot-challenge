@@ -1,6 +1,6 @@
 #RetailMeNot challenge
 
-My proposed solution to the challenge posed by RetailMeNot, Inc. on a Mindsumo contest.
+My proposed solution to the challenge presented by RetailMeNot, Inc. on a Mindsumo contest.
 
 #Challenge prompt
 
@@ -27,8 +27,6 @@ Te = Total entries to page
 
 #My proposal
 
-My solution:
-
 I answered the two questions using Java and Python respectively. For question one, I decided to take this opportunity to experiment with object oriented design in Java, so my code was organized into a number of classes. In contrast, I answered question two with a single Python script. In both cases, only the standard libraries that come with the language were used. I have documented all classes and methods and used comments where necessary to walk the reader through my code. I hope you will find that my code is readable and self-explanatory, but let me summarize my approach here as well. In both cases, my program does these five things:
 
 1. Parse the Http Access Log Sample provided.
@@ -44,3 +42,6 @@ I answered the two questions using Java and Python respectively. For question on
 Please refer to the attached source code for a more detailed explanation of how I solved these problems.
 
 NB: In my calculations, I have excluded the single click out entry at 23:59:59 because we don't have data for the full minute of 23:59.
+
+
+Direct link to the solution page on MindSumo: https://www.mindsumo.com/solutions/48468
