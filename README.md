@@ -2,6 +2,8 @@
 
 My proposed solution to the challenge presented by RetailMeNot, Inc. on a Mindsumo contest.
 
+Direct link to my solution page on MindSumo: https://www.mindsumo.com/solutions/48468
+
 #Challenge prompt
 
 Linked below is 1 hour of web access logs from www.retailmenot.com. Answer the following questions using a programming language of your choice among C#, Java, Python, Ruby or PHP. Extra credit for answering each question in a different language and for not using 3rd party libraries.
@@ -44,4 +46,4 @@ Please refer to the attached source code for a more detailed explanation of how 
 NB: In my calculations, I have excluded the single click out entry at 23:59:59 because we don't have data for the full minute of 23:59.
 
 
-Direct link to my solution page on MindSumo: https://www.mindsumo.com/solutions/48468
+
