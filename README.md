@@ -18,10 +18,10 @@ Http Access Log Sample from retailmenot.com: https://db.tt/dv8Z2wbv
 
 See: wikipedia.org/wiki/Bounce_rate. "A bounce occurs when a web site visitor only views a single page on a website, that is, the visitor leaves a site without visiting any other pages before a specified session ­timeout occurs. There is no industry standard minimum or maximum time by which a visitor must leave in order for a bounce to occur. Rather, this is determined by the session timeout of the analytics tracking software.
 
-Rb = Tv / Te 
-where 
-Rb = Bounce rate 
-Tv = Total number of visitors viewing one page only 
+Rb = Tv / Te  
+where  
+Rb = Bounce rate   
+Tv = Total number of visitors viewing one page only  
 Te = Total entries to page
 
 
